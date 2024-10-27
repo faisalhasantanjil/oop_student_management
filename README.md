@@ -1,4 +1,4 @@
-# School Management System
+# Student Management System
 
 A Python-based School Management System implementing Object-Oriented Programming concepts. The system manages students, teachers, courses, grades, and attendance records.
 
